@@ -8,7 +8,12 @@ OcuGuard AI is a high-availability, multitenant cloud middleware engine designed
   <video src="Demo/OcuGaurdAI.mp4" width="100%" controls>
     Your browser does not support the video tag.
   </video>
-</p>
+  
+</p><img width="1820" height="837" alt="2" src="https://github.com/user-attachments/assets/2167440b-a23c-4b1c-afce-c6b43ee42b01" />
+<img width="1820" height="837" alt="1" src="https://github.com/user-attachments/assets/ae3a0679-b40f-4968-9422-3b4fdce25004" />
+
+
+
 
 ---
 

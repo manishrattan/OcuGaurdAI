@@ -1,0 +1,18 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment secrets (never commit actual keys)
+.env
+
+# Testing / Pytest caches and outputs
+.pytest_cache/
+test-output.xml
+.cache/
+
+# IDE / Editor configuration folders
+.vscode/
+.idea/
+*.swp
+*.swo

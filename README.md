@@ -2,6 +2,14 @@
 
 OcuGuard AI is a high-availability, multitenant cloud middleware engine designed for real-time spatial ocular triage. Ingesting IMU pitch/roll/yaw telemetry and voice transcripts from connected wearables (smart glasses, VR headsets, mobile applications), it evaluates patient posture compliance for post-surgical recovery.
 
+## 🎥 Project Demonstration
+
+<p align="center">
+  <video src="Demo/OcuGaurdi%20AI%20Screen%20Capture.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 ---
 
 ## Key Features
